@@ -2,7 +2,12 @@
 That is the updated version of first StudentRegistration project
 
 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
 [TR]
+
 Güncelleme Notları:
 
 
@@ -34,7 +39,15 @@ Güncelleme Notları:
    - Kullanıcı, tablodan bir öğrenci seçtiği takdirde Sil & Düzenle & Detayları Göster butonları aktif oluyor.
    
 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 [EN]
+
 Update Notes:
 
 
