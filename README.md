@@ -12,7 +12,7 @@ Güncelleme Notları:
 
 
   Genel Olarak:
-   - Artık seçili panelin butonu diğerine göre daha koyu.
+   - Artık seçili panelin butonu diğerine göre daha koyu renkte.
    - Daha temiz bir kod yazmaya çalıştım. Bu yüzden özel metodlar için de class'lar oluşturdum. Ancak hala main class biraz karmaşık.
 
   Kayıt Ekranı İçin:
