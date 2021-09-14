@@ -6,7 +6,7 @@ Update Notes:
 
 
   For General:
-    -Selected panel button is more dark than the other one anymore.
+   - Selected panel button is more dark than the other one anymore.
 
   For Registration Screen:
    - I tried to do more dinamic the program. I added ActionListener to textFields. The listeners, listen all event on textFields and they check the conditions.
