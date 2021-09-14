@@ -13,7 +13,7 @@ Güncelleme Notları:
 
   Genel Olarak:
    - Artık seçili panelin butonu diğerine göre daha koyu renkte.
-   - Daha temiz bir kod yazmaya çalıştım. Bu yüzden özel metodlar için de class'lar oluşturdum. Ancak hala main class biraz karmaşık.
+   - Daha temiz bir kod yazmaya çalıştım. Bu yüzden özel metodlar için de class'lar oluşturdum. Ancak hâlâ main class biraz karmaşık.
 
   Kayıt Ekranı İçin:
    - Programı daha dinamik bir hale getirmeye çalıştım. textField'lara ActionListener ekledim. Listener'lar buradaki tüm olayları dinliyor ve sürekli şartları kontrol ediyor.
