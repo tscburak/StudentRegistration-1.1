@@ -7,8 +7,7 @@ Linkedin Post: https://bit.ly/30NqgH6
 
 
 # **[TR]**
-
-# Güncelleme Notları:
+## Güncelleme Notları:
 
 
   **Genel Olarak**:
@@ -46,9 +45,8 @@ Linkedin Post: https://bit.ly/30NqgH6
 
 
 
-## **[EN]**
-
-# Update Notes:
+# **[EN]**
+## Update Notes:
 
 
   **For General:**
