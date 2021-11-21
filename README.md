@@ -1,7 +1,7 @@
 # StudentRegistration-1.1
 That is the updated version of first StudentRegistration project
 
-Linkedin Post: https://bit.ly/30NqgH6
+Linkedin Post: https://bit.ly/3qXFnc3
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
