@@ -1,4 +1,7 @@
 # StudentRegistration-1.1
+
+Previous Version: https://github.com/tscburak/StudentRegistration
+
 That is the updated version of first StudentRegistration project
 
 Linkedin Post: https://bit.ly/3qXFnc3
